@@ -1,0 +1,50 @@
+[
+    {
+        "Serial": 1,
+        "name": "Event Photography",
+        "image": "https://photographylife.com/wp-content/uploads/2019/01/Van-Halen-World-Tour-2012.jpeg",
+        "price": "1000$ Day",
+        "rating": "5.0",
+        "description": "Aside from weddings, there are broader classes of events that deserve recognition as a separate genre of photography. For example, corporate events, concerts, parades, and other celebrations all count as event photography. You can expect unpredictability and fast-paced scenes – but also interesting human interactions and sometimes (like with concert photos) very good light. Skilled event photographers are able to convey emotions so that viewers are able to relive the moment."
+    },
+    {
+        "Serial": 2,
+        "name": "Wedding Photography",
+        "image": "https://photographylife.com/wp-content/uploads/2010/09/Nikon-85mm-f1.4G-Image-Sample-31.jpg",
+        "price": "1500$ Day",
+        "rating": "5.0",
+        "description": "One of the most important events in many people’s lives is a wedding, and that means wedding photographers have a huge responsibility. Not only do wedding photographers need to have good camera and lighting skills, but they also must know how to work with people and capture the right emotions almost effortlessly. This is a difficult type of photography to practice, and you only get one chance to do it right, so I have a lot of respect for good wedding photographers."
+    },
+    {
+        "Serial": 3,
+        "name": "Product Photography",
+        "image": "https://photographylife.com/wp-content/uploads/2021/04/Nikon-Z7-II.jpg",
+        "price": "800$ Day",
+        "rating": "4.8",
+        "description": "Another branch of commercial photography is product photography, where you are typically shooting in a studio with careful lighting to accentuate the product in question (though sometimes outdoors or on location). In the same way as commercial portraiture, a product photographer’s goal is to match the vision of the company in question. An outdoor brand will have different needs from a high-end lifestyle company, even if both sell the same underlying type of product, such as clothing or backpacks."
+    },
+    {
+        "Serial": 4,
+        "name": "Macro Photography",
+        "image": "https://photographylife.com/wp-content/uploads/2017/09/Macro-photography-focusing.jpg",
+        "price": "320$ Day",
+        "rating": "5.0",
+        "description": "One of the most accessible types of photography is macro, the art of capturing small creatures and objects that we ordinarily overlook. Macro photography is usually associated with images of bugs and flowers, but even subjects like snowflakes or water droplets in the studio can make for amazing macro photos. A related style of photography is simply “close-up” photography, which might not be as magnified as true macro work, but still isolates a small slice of the world that otherwise may not stand out."
+    },
+    {
+        "Serial": 5,
+        "name": "Fashion Photography",
+        "image": "https://photographylife.com/wp-content/uploads/2013/05/How-to-plan-a-photo-shoot.jpg",
+        "price": "500$ h",
+        "rating": "4.9",
+        "description": "A cousin of portraiture, but distinct enough to count as its own genre, is fashion photography. This is a fast-paced world, and the best fashion photographers are intimately knowledgeable not just about lighting and photography but also the clothing styles they’re photographing. Fashion photographs are usually intended for brands and advertisements, but not always, especially in today’s Instagram world."
+    },
+    {
+        "Serial": 6,
+        "name": "Underwater Photography",
+        "image": "https://photographylife.com/wp-content/uploads/2018/03/Some-noise-at-high-ISO.jpg",
+        "price": "680$ Day",
+        "rating": "4.9",
+        "description": "It isn’t always easy to take underwater photos, even if you live in the right location for it. Not only do you need a good waterproof camera, but you also need some specific lighting equipment the moment you start taking photos more than a short distance from the surface. Add in scuba gear and the requisite training for longer dives, and you can see why this is one of the trickier genres to start practicing. But if you put in the money and effort, you’ll end up with photos that not nearly as many people are taking today. Underwater photography spans everything from wildlife and macro to portraits that are striking to the eye."
+    }
+]
